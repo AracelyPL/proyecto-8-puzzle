@@ -8,7 +8,7 @@ Descripcion del proyecto:
 
 Este proyecto se basa en el juego de puzzle, en el cual, mediante distintos metodos se debe hayar una solucion.
 
-Estado inicial = [[1, 2, 3], [4, 5, 0], [6, 7, 8]]                        Estado final = [[1, 2, 3], [4, 5, 6], [7, 8, 0]]
+partiendo de un estado inicial = [[1, 2, 3], [4, 5, 0], [6, 7, 8]] para llegar al estado final = [[1, 2, 3], [4, 5, 6], [7, 8, 0]]
 
 Los metodos que se deben aplicar para la resolucion del juego son:
 
